@@ -1,7 +1,7 @@
 In this repository, you will find the references used in my presentation for the DMG symposium “Practical applications of metagenomics towards typing”. The title of my presentation is **You must choose, but choose wisely: Model-based approaches for microbial community analysis and data integration**. The references stored here provide further reading and support for the concepts discussed in my presentation.
 In addition to the references, I also included links to tutorials for the methods I discussed in my presentation. I hope to make it easier for you to apply the model-based approaches for analysis of -omics data.
 
-# References used in the presentation
+# References 
 
 **Jia, Dini-Andreote, Salles. ISME COMMUN. 2, 96 (2022)** - Jia, X., Dini-Andreote, F. & Salles, J.F. Unravelling the interplay of ecological processes structuring the bacterial rare biosphere. ISME COMMUN. 2, 96 (2022). https://doi.org/10.1038/s43705-022-00177-6
 
