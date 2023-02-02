@@ -36,9 +36,14 @@
 # Links for the tutorials
 
 **Generalized joint attribute modeling (GJAM)** - https://cran.r-project.org/web/packages/gjam/vignettes/gjamVignette.html#big-s-composition-data-fungal-endophytes
+
 **DivNet** - https://github.com/adw96/DivNet
+
 **MUSiCC** - https://github.com/borenstein-lab/MUSiCC
+
 **Exploratory Compositional PCA Biplot** - https://github.com/ggloor/CoDa_microbiome_tutorial/wiki/Part-1:-Exploratory-Compositional-PCA-biplot
+
 **Hmsc: high-dimensional multivariate models** - https://cran.r-project.org/web/packages/Hmsc/vignettes/vignette_3_multivariate_high.pdf
+
 **BORAL** - https://besjournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F2041-210X.12514&file=mee312514-sup-0001-AppendixS1.pdf
 
